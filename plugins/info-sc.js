@@ -2,8 +2,8 @@ import fetch from 'node-fetch'
 let handler = async(m, { conn, text, usedPrefix, command }) => {
 let pp = await conn.profilePictureUrl(m.chat).catch(_ => null)
 
-let str = `*https://youtube.com/channel/UCJNi-zXIsky4nheONnxoY1w*\nSubscribe Untuk Mengetahui Update Selanjutnya:https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg\nSilahkan Subscribe Channel saya dibawah ,Terimakasih`
-conn.sendButtonDoc(m.chat, str, wm, 'Thanks','Bilek', ftextt, m)
+let str = `*KALAU MAU DAPAT SC KERJA:V*\njangan cmn tinggal ketik  .sc,ingat itu`
+conn.sendButtonDoc(m.chat, str, wm, 'Siap Bg','Bilek', ftextt, m)
 }
 handler.command = handler.help = ['sc']
 handler.tags = ['info']
