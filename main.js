@@ -152,7 +152,7 @@ global.reloadHandler = async function (restatConn) {
   }
 
   conn.welcome = 'Hai,Beban Grup👋@user!\nWelcome to @subject\n\n@desc'
-  conn.bye = 'Bye @user! Kalau Balik Lgi  Bwa Lonte Om👋'
+  conn.bye = 'Bye @user! Akhirnya beban berkurang, dadahhh👋'
   conn.spromote = '@user sekarang udh jadi admin,jaga gc yaa!'
   conn.sdemote = '@user kasian ga admin lagi wk😂!'
   conn.handler = handler.handler.bind(global.conn)
