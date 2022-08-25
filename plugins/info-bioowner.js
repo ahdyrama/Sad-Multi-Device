@@ -1,13 +1,13 @@
 let handler = async (m, { conn }) => {
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `*───────[ BIODATA OWNER ]───────*
-*💌 Nama* : ᴅᴀɴɪ-ʙᴏᴛᴢ
-*✉️ Nama RL* : Ahmad Bisa di Panggil Rama
+*💌 Nama* : SxyooBotz
+*✉️ Nama RL* : Aji
 *♂️ Gender* : Laki - laki
 *🕋 Agama* : Islam
-*⏰ Tanggal lahir* : 3 SEPTEMBER 1999
-*🎨 Umur* : 19
-*🧮 Kelas* : KULIAH
+*⏰ Tanggal lahir* : 1 SEPTEMBER 2004
+*🎨 Umur* : 18
+*🧮 Kelas* : 12/3 SMA
 *🧩 Hobby* : Nonton Hanime, Chatting, Recode script bot
 *💬 Sifat* : Idiot, Tidak Ramah, Kanjut, Prik, Pedofil
 *🗺️ Tinggal* : Indo, NTB. Mataram
@@ -16,7 +16,7 @@ let teksbio = `*───────[ BIODATA OWNER ]───────*
 
 *───────[ SOSIAL MEDIA ]───────*
 *📷 instagran* : @ahmdzakaria47
-*🇫  Facebook* : PSIKOPET
+*🇫  Facebook* : Kontol
 *🏮 Chanel Youtube* : https://youtube.com/channel/UCJNi-zXIsky4nheONnxoY1w
 *🐈 Github:* RamaBotz9
 
