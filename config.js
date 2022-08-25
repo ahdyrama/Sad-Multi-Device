@@ -5,7 +5,7 @@ import moment from 'moment-timezone'
 
 global.owner = [
   ['+62 877-9323-6775'],
-  ['+62 877-9323-6775', 'Rama Owner🔞', true],
+  ['+62 877-9323-6775', 'Mass Aji>3', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -34,9 +34,9 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
 }
-global.wm = '                「 RamaBotz あ⁩ 」' //Main Watermark
+global.wm = '                「 𝘚𝘹𝘺𝘰𝘰𝘉𝘰𝘵𝘻 あ⁩ 」' //Main Watermark
 
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - rama👑˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - Mass Aji👑˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
 global.wm3 = '⫹⫺ ꜱᴀᴅ 𝗕𝗢𝗧'
 
@@ -63,7 +63,7 @@ global.flaaa = [
   'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text=',
   'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
  ]
-global.sgc = 'https://chat.whatsapp.com/Du4M5jnXaXy04Wvi41hT4t'
+global.sgc = 'https://chat.whatsapp.com/EOv8e2Fkncg0BEDXVmhY7c'
 global.sig = 'https://www.instagram.com/ahmdzakaria47'
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
@@ -86,8 +86,8 @@ global.bg = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://teleg
 /*============== NOMOR ==============*/
 global.nomorbot = '6282147562437'
 global.nomorown = '6287793236775'
-global.namebot = 'RamaBotz'
-global.nameown = 'Rama_Owner👑'
+global.namebot = 'SXYOBOTZ'
+global.nameown = 'Mass Aji>3'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -118,8 +118,8 @@ global.hsquere = '⛶', '❏', '⫹⫺'
 global.l = '「'
 global.r = '」'
 // Sticker WM
-global.packname = ''
-global.author = ''
+global.packname = '𝘚𝘟𝘠𝘖𝘖'
+global.author = 'Aji\nRama'
 
 global.multiplier = 69 // The higher, The harder levelup
 
