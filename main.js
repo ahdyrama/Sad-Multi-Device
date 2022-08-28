@@ -151,8 +151,8 @@ global.reloadHandler = async function (restatConn) {
     conn.ev.off('creds.update', conn.credsUpdate)
   }
 
-  conn.welcome = 'Hai,Beban Grup👋@user!\nWelcome to @subject\n\n@desc'
-  conn.bye = 'Bye @user! Akhirnya beban berkurang, dadahhh👋'
+  conn.welcome = '╭─⊙ 〔 ıll 𝗪𝗘𝗟𝗖𝗢𝗠𝗜𝗡𝗚 𝗠𝗘𝗠𝗕𝗘𝗥 llı 〕⊙─\n💬 HELLO MYPREN👋, @user!\n\n 📮 IN THE GROUP :\n\n@subject \n\n📮 DESCRIBE GROUP : \n\n@desc'
+  conn.bye = '⊙─❲ ıll 𝗟𝗘𝗔𝗩𝗘 𝗙𝗥𝗢𝗠 𝗚𝗥𝗢𝗨𝗣 llı ❳\n│\n├⊙ NAME : @user\n├⊙ DESC : Sampai ketemu dilain grup\n│\n⊙─\n\n📮 Goodbye | Dont back again😉\n🎧 Salam dari wa.me/6287793236775'
   conn.spromote = '@user sekarang udh jadi admin,jaga gc yaa!'
   conn.sdemote = '@user kasian ga admin lagi wk😂!'
   conn.handler = handler.handler.bind(global.conn)
